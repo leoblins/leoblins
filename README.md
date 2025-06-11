@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Leonardo Lins
+# 👨💻 Leonardo Lins
 
 **`Desenvolvedor Front-end & Estudante de Sistemas`**
 
