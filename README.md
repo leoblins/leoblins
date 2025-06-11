@@ -1,6 +1,6 @@
 # 👨💻 Leonardo Lins
 
-_**Estudante de Sistemas de Informação com foco em desenvolvimento web.*__
+_**Estudante de Sistemas de Informação com foco em desenvolvimento web.**_
 
 `Buscando minha primeira oportunidade na área, com interesse em frontend, backend e banco de dados.`
 
