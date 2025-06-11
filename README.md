@@ -1,11 +1,8 @@
 # 👨💻 Leonardo Lins
 
-**` Estudante de Sistemas de Informação com foco em desenvolvimento web.`**
+`Estudante de Sistemas de Informação com foco em desenvolvimento web.`
 
-
- _**Buscando minha primeira oportunidade na área, com interesse em frontend, backend e banco de dados.**_
-
- 
+_**Buscando minha primeira oportunidade na área, com interesse em frontend, backend e banco de dados.**_
 
 Olá! Me chamo **Leonardo Lins Barbosa**, tenho 22 anos e sou estudante de **Sistemas de Informação**. Sou apaixonado por tecnologia, programação e por transformar ideias em projetos reais e funcionais. Tenho experiência com **HTML, CSS, JavaScript, React , Django, Python, SQL, PHP e JAVA**.
 
