@@ -46,7 +46,7 @@ Atualmente sou estagiário de suporte, mas em paralelo estou aprimorando minhas 
 
 - 🔖 [**Biblioteca Pessoal**](https://github.com/leoblins/Biblioteca-do-Pai) — Sistema de catalogação de livros com filtro por autor, gênero, avaliação, login e carrossel de livros.
 - ❤️ [**Manhã Beneficente**](https://github.com/leoblins/Manha-Beneficente) — Site institucional com transparência de doações, layout responsivo e gestão via Django.
-- 🙋 [**Portfólio Pessoal**](https://leoblins.vercel.app/) — Meu site pessoal com projetos, certificados e um pouco da minha história.
+- 🙋 [**Crud em PHP**](https://github.com/leoblins/Teste_Tecnico) — Como parte de um projeto para uma vaga de estágio, eu desenvolvi um CRUD em PHP, uma linguagem que venho aprendendo cada dia mais.
 
 ---
 
