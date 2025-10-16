@@ -6,7 +6,7 @@ _**Estudante de Sistemas de Informação com foco em desenvolvimento web.**_
 
 Olá! Me chamo **Leonardo Lins Barbosa**, tenho 22 anos e sou estudante de **Sistemas de Informação**. Sou apaixonado por tecnologia, programação e por transformar ideias em projetos reais e funcionais. Tenho experiência com **HTML, CSS, JavaScript, React , Django, Python, SQL, PHP e JAVA**.
 
-Atualmente sou estagiário de suporte, mas em paralelo estou aprimorando minhas habilidades em **desenvolvimento web full stack** e trabalhando em projetos pessoais e acadêmicos. Você pode conferir alguns dos meus trabalhos abaixo e me acompanhar nas redes!
+Atualmente sou estagiário de analise de dados e desenvolvimento, mas em paralelo estou aprimorando minhas habilidades em **desenvolvimento web full stack** e trabalhando em projetos pessoais e acadêmicos. Você pode conferir alguns dos meus trabalhos abaixo e me acompanhar nas redes!
 
 <p align="left">
   
